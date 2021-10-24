@@ -1,7 +1,7 @@
 
 # Internshala.in
 
-Hello everyone In our masai Unit-3 journey,At the last week we have to create a project this week called as a construct week. So we got a project Internshala.in to add the backend functionality. 
+Hello everyone , we have to create a project this week called as a construct week. So we got a project Internshala.in to add the backend functionality. 
 ## Team Internshala
 
 Contributions are always welcome!
