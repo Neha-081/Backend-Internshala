@@ -42,7 +42,7 @@ Contributions are always welcome!
 - Clone our repository by running the command git clone https://github.com/Neha-081/Backend-Internshala.git
 - And then run following two commands
 - npm install
-- npm start
+- npm run server
 - Open your browser and go to http://localhost:2999/users/indexx
 
   
