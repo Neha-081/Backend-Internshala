@@ -40,7 +40,7 @@ Contributions are always welcome!
 ## How to use our website.
 - Install git on your machine
 - Clone our repository by running the command git clone https://github.com/Neha-081/Backend-Internshala.git
-- And then run following two commands
+- And then run following two commands at your terminal
 - npm install
 - npm run server
 - Open your browser and go to http://localhost:2999/users/indexx
