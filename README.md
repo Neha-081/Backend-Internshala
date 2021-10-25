@@ -43,6 +43,6 @@ Contributions are always welcome!
 - And then run following two commands
 - npm install
 - npm start
-- Open your browser and go to http://localhost:2999/src/views/users/index.ejs
+- Open your browser and go to http://localhost:2999/users/indexx
 
   
