@@ -9,7 +9,7 @@
         }
         #filter-bar {
     width:20%;
-    margin-left:16%;
+    margin-left:10%;
     float: left;
    /* position:fixed;*/
     overflow: scroll;
@@ -29,6 +29,8 @@
     float: right;
    
 
+}.rightbox{
+  width: 100px;
 }
 
 .box {
