@@ -132,3 +132,33 @@ margin-left: 4px;
 }a{
     text-decoration: none;
 }
+
+  @media(max-width:650px){
+    #catagories-cities{
+      font-size: 2px;
+  
+    }.catagories-cities img,.catagories-cities div{
+height: 60px;
+width: 60px;
+font-size: 8px;
+    }.intern-cta h2,.intern-cta p,#in,.srch,.text {
+        display: none;
+    }
+}
+@media(max-width:400px){
+    #catagories-cities{
+      font-size: 2px;
+  
+    }.catagories-cities img,.catagories-cities div{
+height: 40px;
+width: 40px;
+font-size: 5px;
+    }.intern-cta h2,.intern-cta p,#in,.srch,.text {
+        display: none;
+    }
+}
+@media(max-width:900px){
+    .catagories-cities{
+      font-size: 10px;
+    }
+  }

@@ -68,4 +68,17 @@ margin-left: 10px;
     clear: both;
 }a{
     text-decoration: none;
-}
+}@media(max-width:900px){
+    .parent{
+      font-size: 10px;
+    }
+  }
+  @media(max-width:600px){
+    .parent{
+      font-size: 7px;
+  
+    }.footericons{
+        display: none;
+            }
+  }
+  

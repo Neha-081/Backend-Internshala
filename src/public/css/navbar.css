@@ -139,3 +139,17 @@ body {
   }a{
     text-decoration: none;
 }
+
+@media(max-width:900px){
+  .navbar{
+    font-size: 10px;
+  }
+}
+@media(max-width:600px){
+  .navbar{
+    font-size: 7px;
+
+  }.footericons{
+      display: none;
+          }
+}
