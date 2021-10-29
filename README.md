@@ -44,5 +44,6 @@ Contributions are always welcome!
 - npm install
 - npm run server
 - Open your browser and go to http://localhost:2999/users/indexx
+- Can also visit to https://neha-test-1.herokuapp.com/users/indexx to see project directly.
 
   
