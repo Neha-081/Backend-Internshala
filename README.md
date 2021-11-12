@@ -10,7 +10,7 @@ Contributions are always welcome!
   
 ## Authors
 
-- [@Neha Prajapati](https://github.com/Neha-081)
+- Neha-[@Neha Prajapati](https://github.com/Neha-081)
 - [@vishalSinha](https://github.com/Vishal062)
 - [@tejshreebgund](https://github.com/tejshreebgund)
 - [@tvishal Singh](https://github.com/shepaC)
