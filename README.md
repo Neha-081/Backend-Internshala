@@ -72,4 +72,8 @@ Contributions are always welcome!
 - Open your browser and go to ```http://localhost:2999/users/indexx```
 - Can also visit to  https://neha-test-1.herokuapp.com/users/indexx for live experience.
 
-  
+ ## Contact
+Feel free to reach me ->
+- Email - <nehaprajapati1150@gmail.com> 
+- LinkedIn - https://linkedin.com/in/neha-prajapati-1150
+- Twitter - https://twitter.com/NehaPra03810819
