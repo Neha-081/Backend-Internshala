@@ -18,9 +18,11 @@ app.use("/users",userController)
 app.use("/",userController)
 
 
-app.listen(3000,async function(){
+const port = process.env.PORT || 3000
+
+app.listen(port,async function(){
     await connect();
-    console.log("listening on port 3000");
+    console.log("listening on port",port);
 })
 
 
