@@ -8,7 +8,12 @@ const Marketing= require("../models/marketing.model");
 const Store= require("../models/store.model");
 
 
-
+router.get("/",async function(req,res){
+  const user = await Courses.find().lean().exec()
+  res.render("homepage/tej",{
+    user:user
+  })
+})
 
 //tej
 router.get("/tej",async function(req,res){
