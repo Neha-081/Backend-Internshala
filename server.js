@@ -16,13 +16,9 @@ app.set('views',path.join(__dirname,'views'));
 app.set('view engine','ejs')
 app.use("/users",userController)
 
-
-
-
-
-app.listen(2999,async function(){
+app.listen(3000,async function(){
     await connect();
-    console.log("listening on port 2999");
+    console.log("listening on port 3000");
 })
 
 
